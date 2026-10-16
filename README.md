@@ -39,8 +39,3 @@ Advanced-Statistical-Analysis/
 ## Statistical Significance
 The significance level used is alpha = 0.05. The notebook reports test statistics, p-values, confidence intervals, plots, and conclusions.
 
-## Limitations
-This is an exploratory analysis of an observational dataset. Statistical associations do not establish causation. Test assumptions should be reviewed before interpreting results.
-
-## Author
-Add your name here.
